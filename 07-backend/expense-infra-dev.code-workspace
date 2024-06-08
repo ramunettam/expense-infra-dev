@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../expense-terraform-dev"
+		},
+		{
+			"path": "../../terraform-aws-security-group"
+		}
+	]
+}
